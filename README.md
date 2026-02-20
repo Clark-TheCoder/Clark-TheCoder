@@ -1,5 +1,6 @@
 # About Me:
 Full-stack developer in progress.
+
 Hi, I'm Emma. I'm just a girl who likes to code and see ideas come together :) I especially enjoy using RESTful APIS and turning backend data into aesthetic frontend components.
 Working in IT by day, building projects by night.
 
